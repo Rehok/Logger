@@ -1,0 +1,7 @@
+## Title: |cffFF8000Logger|r
+## Notes: Multiple logging prints depending on use
+## Author: Rhk
+## Version: 1.0
+## Interface: 100002
+
+Logger.lua
